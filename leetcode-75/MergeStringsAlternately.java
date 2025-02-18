@@ -1,4 +1,4 @@
-class MergeStringsAlternatively {
+class MergeStringsAlternately {
 
     public static String mergeAlternately() {
         return "";
