@@ -12,7 +12,7 @@ class MergeStringsAlternately {
 
     public static String mergeAlternately(String word1, String word2) {
 		StringBuilder res = new StringBuilder();
-        int i, j;
+		int i, j;
 		for(i=0, j=0; i<word1.length() && j<word2.length(); i++, j++) {
 			res.append(word1.charAt(i)).append(word2.charAt(j));
         }
