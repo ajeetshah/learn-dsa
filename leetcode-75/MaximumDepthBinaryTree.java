@@ -16,9 +16,6 @@ leaf node.
     2   3
    4 5
 */
-import java.util.Stack;
-import java.util.Set;
-import java.util.HashSet;
 import com.example.lib.TreeNode;
 
 class MaximumDepthBinaryTree {
